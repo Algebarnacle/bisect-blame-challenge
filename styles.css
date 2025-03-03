@@ -1,0 +1,27 @@
+/* i've got a blank space baaaaaby */
+.blank-space {
+    color: gray;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.blank-space:hover {
+    opacity: 0.75;
+    color: green;
+}
+
+.big-body {
+    margin: 0rem;
+    padding: 2rem;
+    background-color: darkslategray;
+    color: whitesmoke;
+    line-height: 2rem;
+}
+
+.big-main-blastoise {
+    border: 0 black none;
+    border-radius: 15px;
+    padding: 2rem;
+    background-color: lightgray;
+    color: darkgreen;
+}
