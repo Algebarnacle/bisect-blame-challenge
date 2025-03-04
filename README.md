@@ -1,1 +1,6 @@
-# mad-libs-challenge
+Using the methods discussed in our lesson, complete the parable below.  At some point in history a developer temporarily added a missing word.  Locate all changes to the line where a word was missed and fill in the blanks.  In the brackets give the name of the developer who provided the missing word.   
+Begin by cloning the following repo git@github.com:Algebarnacle/bisect-blame-challenge.git
+
+# Frog in a Milk-Pail
+
+A frog was hopping around a farmyard, when it decided to investigate the barn. Being somewhat careless, and maybe a little too curious, he ended up falling into a pail half-filled with __________( ?). As he swam about attempting to reach the top of the pail, he found that the sides of the pail were too high and steep to reach. He tried to stretch his back legs to push off the bottom of the pail but found it too deep. But this frog was determined not to give up, and he ___________(? ). He kicked and squirmed and kicked and squirmed, until at last, all his churning about in the milk had turned the milk into a big _______( ? ). The butter was now solid enough for him to climb onto and get out of the pail! "__________!"(?)
